@@ -1,2 +1,4 @@
 # GitHub-Intro
-A simple Python project demonstrating Git and GitHub version control and collaboration.
+
+This repository demonstrates basic Git and GitHub version control and collaboration using a simple Python program.
+
